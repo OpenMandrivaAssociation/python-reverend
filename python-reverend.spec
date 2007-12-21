@@ -10,6 +10,7 @@ Release: %{release}
 Source:  http://prdownloads.sourceforge.net/%oname/%oname-%version.tar.bz2
 License: GPL
 Group: Development/Python
+BuildRoot: %{_tmppath}/%{name}-buildroot
 BuildRequires: libpython-devel
 Url: http://divmod.org/trac/wiki/DivmodReverend 
 BuildArch: noarch
