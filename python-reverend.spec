@@ -1,6 +1,6 @@
 %define name python-reverend
 %define version 0.3
-%define release %mkrel 5
+%define release %mkrel 6
 %define oname Reverend
 
 Summary: Python Bayesian classifier
