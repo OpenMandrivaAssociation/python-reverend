@@ -3,7 +3,7 @@
 Summary: Python Bayesian classifier
 Name:    python-reverend
 Version: 0.3
-Release: 8
+Release: 9
 Source:  http://prdownloads.sourceforge.net/%oname/%oname-%version.tar.bz2
 License: GPL
 Group: Development/Python
