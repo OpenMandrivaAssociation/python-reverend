@@ -8,7 +8,7 @@ Source:  http://prdownloads.sourceforge.net/%oname/%oname-%version.tar.bz2
 License: GPL
 Group: Development/Python
 BuildRequires: python-devel
-Url: http://divmod.org/trac/wiki/DivmodReverend 
+Url: https://divmod.org/trac/wiki/DivmodReverend 
 BuildArch: noarch
 
 %description
